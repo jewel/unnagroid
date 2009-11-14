@@ -1,0 +1,5 @@
+UnNagRoid is a simple android application to delete all SMS messages that
+contain a certain string.  I use it to delete all text messages from nagios and
+it is currently hard-coded to only do that.
+
+License: GPL v3 or (at your option) any later version
